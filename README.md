@@ -1,6 +1,6 @@
 <img align-item="center" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" width="700" height="400" />
 
-<h1 align="center">Hi 👋, I'm Web Developer</h1>
+<h1 align="center">Hi 👋, I'm a Web Developer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashluhana&label=Profile%20views&color=0e75b6&style=flat" alt="avinashluhana" /> </p>
